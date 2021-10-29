@@ -6,8 +6,8 @@ import json
 import os
 
 
-client_id = 'db349b155880460ca7c9dda829271539'
-client_secret = 'abe52e2a3a6049149127e977678edbbe'
+client_id = 'your_client_id'
+client_secret = 'your_client_secret_id'
 
 def get_album_name(artista, cancion, path):
     os.chdir(path)
