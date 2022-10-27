@@ -4,6 +4,8 @@ YoutubeDonwloader extracting songs info from spotify api.
 Make sure all the files are in the same folder. 
 You gotta download ffmpeg files and move it where youtube-dl script was installed.
 
+run window.py to get started
+
 YoutubeDownloader window:
 ![image](https://user-images.githubusercontent.com/89738509/138328480-f624d48e-0197-4410-90ad-4856f022ac21.png)
 
